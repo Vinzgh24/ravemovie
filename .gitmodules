@@ -2,3 +2,6 @@
 	path = themes/blowfish_forked
 	url = https://github.com/Vinzgh24/blowfish
 	branch = main
+[submodule "themes/Puppet-Themes"]
+	path = themes/Puppet-Themes
+	url = https://github.com/Vinzgh24/Puppet-Theme
